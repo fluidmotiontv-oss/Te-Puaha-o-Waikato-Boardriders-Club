@@ -1,0 +1,6 @@
+{
+  "name": "Te Puaha o Waikato Boardriders Club",
+  "description": "Bilingual surf & bar dynamics portal, Fluid Motion Dragon 9 Anchor stream, VIP Members Sanctuary, media upload, and club ladders for Sunset Beach & Port Waikato.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
